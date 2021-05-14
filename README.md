@@ -1,2 +1,3 @@
 # fish-i
- Site portfolio para o estudio musical fish-i
+
+Design e animação em CSS para protótipo de desenvolvimento de portfólio musical
